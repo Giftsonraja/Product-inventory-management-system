@@ -1,0 +1,35 @@
+.product-details {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+    color: #007bff;
+    font-size: 26px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #333;
+}
+
+p strong {
+    color: #007bff;
+}
+
+@media (max-width: 500px) {
+    .product-details {
+        max-width: 90%;
+        padding: 15px;
+    }
+}
