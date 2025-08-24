@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890",
+      "id": 3
+    },
+    {
+      "email": "giftson123@gmail.com",
+      "password": "password012",
+      "firstName": "Giftson",
+      "lastName": "Raja",
+      "location": "Coimbatore",
+      "mobileNumber": "9894536377",
+      "id": 4
+    },
+    {
+      "email": "giftson123@gmail.com",
+      "password": "password012",
+      "firstName": "Giftson",
+      "lastName": "Raja",
+      "location": "Coimbatore",
+      "mobileNumber": "9894536377",
+      "id": 5
+    },
+    {
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "Coimbatore",
+      "mobileNumber": "9894536377",
+      "id": 6
+    },
+    {
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "Coimbatore",
+      "mobileNumber": "9894536377",
+      "id": 7
+    },
+    {
+      "email": "arulrajan03@gmail.com",
+      "password": "password123",
+      "firstName": "Gift",
+      "lastName": "Raja",
+      "location": "Madurai",
+      "mobileNumber": "9894536374",
+      "id": 8
+    },
+    {
+      "email": "jackrobin12@gmail.com",
+      "password": "password09",
+      "firstName": "Jack",
+      "lastName": "Robin",
+      "location": "Chennai",
+      "mobileNumber": "9894536370",
+      "id": 9
+    },
+    {
+      "email": "jackrobin03@gmail.com",
+      "password": "password121",
+      "firstName": "Jack",
+      "lastName": "Robin",
+      "location": "Chennai",
+      "mobileNumber": "9894536377",
+      "id": 10
+    },
+    {
+      "email": "aunto06@gmail.com",
+      "password": "passpass01",
+      "firstName": "Pratik",
+      "lastName": "Aunto",
+      "location": "Coimbatore",
+      "mobileNumber": "9677447330",
+      "id": 11
+    },
+    {
+      "email": "john12@gmail.com",
+      "password": "passpass",
+      "firstName": "John",
+      "lastName": "David",
+      "location": "Coimbatore",
+      "mobileNumber": "9894536375",
+      "id": 12
+    },
+    {
+      "email": "danielleo@gmail.com",
+      "password": "passpass",
+      "firstName": "Daniel",
+      "lastName": "Leo",
+      "location": "Coimbatore",
+      "mobileNumber": "9894536371",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "description": "A powerful gaming laptop",
+      "manufacturer": "Tech Corp",
+      "manufacturingDate": "2024-01-10",
+      "price": 1200,
+      "quantity": 10
+    },
+    {
+      "id": 102,
+      "name": "Smartphone",
+      "description": "Latest smartphone with 5G",
+      "manufacturer": "Sony",
+      "price": 40000,
+      "quantity": 10
+    },
+    {
+      "name": "Digital camera",
+      "description": "Cameras for surveillance and home security ",
+      "manufacturer": "Canon",
+      "price": 5000,
+      "quantity": 3,
+      "id": 1742208600354
+    }
+  ]
+}
